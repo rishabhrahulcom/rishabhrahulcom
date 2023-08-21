@@ -1,7 +1,7 @@
-👋 Hi, I’m Rishabh Rahul
+**👋 Hi, I’m Rishabh Rahul**
 <!--📞 8458015084 | 📧 email@rishabhrahul.com 
 --->
-🎓 Education
+**🎓 Education**
 - Bachelor of Technology in Computer Science and Engineering
   Institute of Technical Education and Research, Bhubaneswar, Odisha
   Aug. 2016 – July 2020
