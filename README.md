@@ -12,7 +12,7 @@
 
   
 
-**💼 Experience**
+💼 **Experience**
 
 **Software Engineer at Prodapt Solution**
 May 2022 – Present | Bengaluru, India
