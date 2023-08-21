@@ -8,8 +8,9 @@
   
 - Delhi Public School, Ranchi, Jharkhand
   April 2002 – May 2015
-**
-💼 Experience**
+****
+💼 Experience****
+
 Software Engineer at Prodapt Solution
 May 2022 – Present | Bengaluru, India
 - Developed a major feature on the Data Pooling App, enabling seamless data integration between two systems using real-time Kafka messaging.
