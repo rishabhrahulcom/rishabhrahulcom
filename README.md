@@ -8,24 +8,27 @@
   
 - Delhi Public School, Ranchi, Jharkhand
   April 2002 – May 2015
-****
-💼 Experience****
 
-Software Engineer at Prodapt Solution
+
+  
+
+**💼 Experience**
+
+**Software Engineer at Prodapt Solution**
 May 2022 – Present | Bengaluru, India
 - Developed a major feature on the Data Pooling App, enabling seamless data integration between two systems using real-time Kafka messaging.
 - Improved query response time by 94% through effective caching techniques.
 - Conducted extensive tests resulting in 0% data loss and ensured robust performance.
 - Led REST API development for integration app to ensure smooth interoperability.
 
-Associate IT Consultant at ITC Infotech
+**Associate IT Consultant at ITC Infotech**
 Jan 2021 – Jan 2022 | Bengaluru, India
 - Led development of a portion of the Quick2Snowflake Data Migration Tools framework.
 - Streamlined data visualization through an intuitive Directed Acyclic Graph (DAG) interface, saving 4 hours weekly.
 - Designed a role-based access control system for robust user authentication.
 - Created interactive Power BI dashboards in French & English, contributing to data-driven decision-making.
-**
-🚀 Projects**
+
+**🚀 Projects**
 - Route Routing | Java, Maven, Data Structure, Algorithms
   Developed a high-speed map with continuous Dijkstra for optimal real-world route finding.
 
