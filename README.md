@@ -8,8 +8,8 @@
   
 - Delhi Public School, Ranchi, Jharkhand
   April 2002 – May 2015
-
-💼 Experience
+**
+💼 Experience**
 Software Engineer at Prodapt Solution
 May 2022 – Present | Bengaluru, India
 - Developed a major feature on the Data Pooling App, enabling seamless data integration between two systems using real-time Kafka messaging.
@@ -23,21 +23,21 @@ Jan 2021 – Jan 2022 | Bengaluru, India
 - Streamlined data visualization through an intuitive Directed Acyclic Graph (DAG) interface, saving 4 hours weekly.
 - Designed a role-based access control system for robust user authentication.
 - Created interactive Power BI dashboards in French & English, contributing to data-driven decision-making.
-
-🚀 Projects
+**
+🚀 Projects**
 - Route Routing | Java, Maven, Data Structure, Algorithms
   Developed a high-speed map with continuous Dijkstra for optimal real-world route finding.
 
 - Reinforcement Learning with Games | Python, TensorFlow
   Optimized input processing and used advanced techniques like experience replay for improved learning.  
 
-💻 Technical Skills
+**💻 Technical Skills**
 - Programming Languages: Java
 - Frameworks: Spring Boot, JUnit, Spring Security, JPA/Hibernate, Spring REST
 - Databases: Neo4J, MySQL
 - Tools & Cloud: Git, Docker, Kafka, Postman, Azure
 
-🏆 Awards
+**🏆 Awards**
 - 2x Spotlight Awards at Prodapt Solution
 - Pat on the Back at ITC Infotech
 
