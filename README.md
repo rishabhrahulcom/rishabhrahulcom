@@ -1,2 +1,1 @@
-
-## I encourage you to visit [my website rishabhrahul.com](https://rishabhrahul.com), to see my work.
+## This may be just a storage, nothing more nothing less by-the-way here's my website [my website rishabhrahul.com](https://rishabhrahul.com).
